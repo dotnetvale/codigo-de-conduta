@@ -21,7 +21,7 @@ Acreditamos em um ambiente onde todas as pessoas se sintam bem-vindas e possam c
 -	Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
 -	Nós evitamos tópicos ofensivos como forma de humor.
 -	Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político.
--	Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do .NET São Paulo, como inscrições para novos cursos ou ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
+-	Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do .NET Vale, como inscrições para novos cursos ou ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
 
 **✔️Nós trabalhamos ativamente para:**
 

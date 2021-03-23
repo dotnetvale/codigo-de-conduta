@@ -55,4 +55,4 @@ Se alguém se envolver em comportamento de assédio, a equipe organizadora poder
 
 **Sobre o Código de Conduta:**
 
-Este conteúdo foi elaborado com base no Código de Conduta da comunidade **.Net SP**. 
+Este conteúdo foi elaborado com base no Código de Conduta da comunidade **[.Net SP](https://github.com/DotNetSP/Codigo-de-Conduta/blob/main/README.md)**. 
